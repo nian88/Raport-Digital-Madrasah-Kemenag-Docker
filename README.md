@@ -1,6 +1,7 @@
 Aplikasi RDM Kemenag
 # dockerize-rdm-kemenag
 
+# RDM VERSION : 3.0 (20241222062403)
 
 ## Petunjuk Instalasi
 
